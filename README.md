@@ -11,6 +11,7 @@ Did you know there's an SSH Agent built into Windows? What a world!
 2. From within the cloned repository, run the following:
 
 ```sh
+make
 sudo make install
 ```
 
